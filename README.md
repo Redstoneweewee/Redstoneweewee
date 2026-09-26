@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://redstoneweewee.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore_the_site-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Explore my portfolio"></a>
-  <a href="https://www.linkedin.com/in/leifengchen"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="mailto:leifengchen123@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-394b63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+  <a href="https://redstoneweewee.github.io/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat&logo=githubpages&logoColor=white" alt="Explore my portfolio"></a>
+  <a href="https://www.linkedin.com/in/leifengchen"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="mailto:leifengchen123@gmail.com"><img src="https://img.shields.io/badge/Email-394b63?style=flat&logo=gmail&logoColor=white" alt="Email me"></a>
 </p>
 
 I started making Minecraft maps for my best friend. Today I'm a computer science student at **UC Santa Barbara**, building mobile apps, games, and the tools behind them. I care about clear systems, useful interfaces, and what real users do when my first design doesn't work.
