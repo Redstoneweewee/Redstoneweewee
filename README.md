@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://redstoneweewee.github.io/work.html#about"><img src="https://img.shields.io/badge/CS_@_UC_Santa_Barbara-1f6feb?style=flat" alt="Computer Science at UC Santa Barbara"></a>
-  <a href="https://redstoneweewee.github.io/uncoded-resolve.html"><img src="https://img.shields.io/badge/Software_Engineer-7c3aed?style=flat" alt="Software engineer"></a>
+  <a href="https://redstoneweewee.github.io/uncoded-resolve.html#engineering"><img src="https://img.shields.io/badge/Software_Engineer-7c3aed?style=flat" alt="Software engineer"></a>
   <a href="https://redstoneweewee.github.io/eezy-receipt.html#redesign"><img src="https://img.shields.io/badge/Product_%26_UX-0f766e?style=flat" alt="Product and user experience design"></a>
-  <a href="https://redstoneweewee.github.io/warden-creations.html"><img src="https://img.shields.io/badge/Creator-9a6700?style=flat" alt="Creator"></a>
+  <a href="https://redstoneweewee.github.io/warden-creations.html#production-toolkit"><img src="https://img.shields.io/badge/Creator-9a6700?style=flat" alt="Creator"></a>
 </p>
 
 <p align="center">
