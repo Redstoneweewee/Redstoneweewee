@@ -38,13 +38,13 @@ I started making Minecraft maps for my best friend. Today I'm a computer science
 
 <p><a href="https://redstoneweewee.github.io/eezy-receipt.html"><img src="https://img.shields.io/badge/Eezy_Receipt-198754?style=flat&logo=react&logoColor=white" alt="Eezy Receipt case study"></a><br>A receipt-splitting app built with a seven-person team in React Native, Expo, and Supabase.</p>
 
-<p><a href="https://redstoneweewee.github.io/work.html#cable-conundrum"><img src="https://img.shields.io/badge/Cable_Conundrum-2563eb?style=flat&logo=unity&logoColor=white" alt="Cable Conundrum portfolio entry"></a> <a href="https://warden-creations.itch.io/cable-conundrum"><img src="https://img.shields.io/badge/Play-web_game-2563eb?style=flat" alt="Play Cable Conundrum"></a> <a href="https://github.com/Redstoneweewee/Cable-Conundrum"><img src="https://img.shields.io/badge/Source-GitHub-30363d?style=flat&logo=github&logoColor=white" alt="Cable Conundrum source code"></a><br>A Unity puzzle game whose C# gameplay, shaders, art, and UI I made myself.</p>
+<p><a href="https://redstoneweewee.github.io/work.html#cable-conundrum"><img src="https://img.shields.io/badge/Cable_Conundrum-2563eb?style=flat&logo=unity&logoColor=white" alt="Cable Conundrum portfolio entry"></a> <br>A Unity puzzle game whose C# gameplay, shaders, art, and UI I made myself.</p>
 
 <p><a href="https://redstoneweewee.github.io/hedron.html"><img src="https://img.shields.io/badge/Hedron3-344d99?style=flat" alt="Hedron3 case study"></a><br>A guided logistics-document workflow, responsive marketing site, and brand for the startup I co-founded.</p>
 
 ### Tools I use
 
-> 👆 **Tip:** click any badge to jump to the part of my portfolio where I used that skill.
+> 👆 **Tip:** click any badge to jump to the part of my portfolio where I used that skill!
 
 **Languages & web basics**
 
